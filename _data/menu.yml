@@ -1,0 +1,23 @@
+entries:
+  - title: Info
+    entries:
+      - title: Mein Blog, Projekte und Krempel
+      - title: Fahrräder, Software, Visuals und Quatsch
+      - title: Musik
+        url: https://soundcloud.com/xrun
+
+  - title: Posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: älter...
+      show_more_url: archiv.html
+
+  - title: Fahrräder
+    post_list:
+      limit: 5
+      category: Fahrrad
+      show_more: true
+      show_more_text: älter...
+      show_more_url: fahrradarchiv.html
+
