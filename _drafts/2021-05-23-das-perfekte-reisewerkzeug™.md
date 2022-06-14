@@ -85,4 +85,4 @@ Trockenhandwaschgel von Rema Tiptop
 ***
 
 [^1]: [Konusschlüssel von Unior](https://uniortools.com/ger/product/1612-2-doppelkonusschl%C3%BCssel#19309)
-[^2]: heißen jetzt IceToolz
+[^2]: heißen jetzt IceToolz, haben aber dieses Multitool leider nicht mehr im Programm
