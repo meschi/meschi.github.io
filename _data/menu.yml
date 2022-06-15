@@ -15,7 +15,7 @@ entries:
 
   - title: Fahrräder
     post_list:
-      limit: 5
+      limit: 10
       category: Fahrrad
       show_more: true
       show_more_text: älter...
