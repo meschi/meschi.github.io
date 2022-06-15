@@ -58,5 +58,5 @@ theme_config:
   appearance: "auto"
   back_home_text: "zurück"
   date_format: "%d-%m-%y"
-  lowercase_titles: true
+  lowercase_titles: false
 
