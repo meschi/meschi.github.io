@@ -10,7 +10,7 @@ entries:
     post_list:
       limit: 10
       show_more: true
-      show_more_text: älter...
+      show_more_text: "alte Posts..."
       show_more_url: archiv.html
 
   - title: Fahrräder
@@ -18,6 +18,6 @@ entries:
       limit: 10
       category: Fahrrad
       show_more: true
-      show_more_text: älter...
+      show_more_text: "alte Posts..."
       show_more_url: fahrradarchiv.html
 
