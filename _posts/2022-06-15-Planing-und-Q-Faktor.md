@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Fahrrad
-date:   2022-06-15 19:30
+date: 2022-06-15 19:30
 ---
 
 Nachdem ich die Kurbel meines Mountainbikes getauscht habe fällt mir auf, dass bei Sprints die Beine schneller müde sind, außerdem fühlt sich der Rahmen im Tritt deutlich steifer an als zuvor.
