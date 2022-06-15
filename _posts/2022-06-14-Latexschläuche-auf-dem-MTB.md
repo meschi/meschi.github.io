@@ -14,5 +14,6 @@ Auf einer mehrtägigen Tour im Winter hat nun der hintere Schlauch einen Platten
 Oben der Schlauch aus dem Hinterrad, unten der Schlauch aus dem Vorderrad mit den geflickten Scheuerstellen.
 
 Die Felge war relativ schmal, die Innenweite müsste ungefähr bei 19mm liegen, was den Schlauch an dieser Stelle sicherlich zusätzlich gedehnt hat, da er zwischen die Felgenhörner hineingedrückt wurde. Die Schläuche wurden teilweise mit relativ niedrigen Drücken gefahren (zwischen 1 und 2,2 Bar).
+Die Luft ist über einen Zeitraum von ca. 5 Minuten entwichen, es gab also keinen plötzlichen Druckabfall, was bei der größe des Lochs beachtlich ist.
 
 Ich fahre inzwischen wieder Butyl.
